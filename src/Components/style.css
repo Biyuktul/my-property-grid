@@ -22,6 +22,7 @@
   overflow: hidden;
   border-right: 1px solid gray;
   border-top: 1px solid gray;
+  background-color: #c6c8cc;
 }
 .menu_item {
   font-size: 14px;
@@ -45,5 +46,5 @@ transform: rotate(-90deg);
 }
 
 .menu_item span:hover {
-  background-color: rgb(207, 207, 207);
+  background-color: white;
 }

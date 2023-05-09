@@ -147,7 +147,7 @@ const MyLayout = () => {
         <Content style={{ border: '1px solid gray', marginTop: '3px', marginBottom: '3px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
           <PropertyGrid />
         </Content>
-        <div style={{ padding: 0, height: '50px', borderLeft: '1px solid gray', borderTop: '1px solid gray' }}></div>
+        <div style={{ padding: 0, height: '30px', borderLeft: '1px solid gray', borderTop: '1px solid gray' }}></div>
 
       </Layout>
     </Layout>

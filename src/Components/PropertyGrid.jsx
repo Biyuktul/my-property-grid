@@ -94,7 +94,7 @@ const PropertyGrid = () => {
   return (
     <div className="w-[97%] h-[95%]">
       <HorizontalMenu />
-      <div style={{ height: '615px', border: '1px solid gray', overflowY: 'scroll'}} className="w-[100%]">
+      <div style={{ height: '645px', border: '1px solid gray', overflowY: 'scroll'}} className="w-[100%]">
         <PropertyTable data={data1} title={"Property Table 1"}/>
         <PropertyTable data={data2} title={"Property Table 2"}/>
         <PropertyTable data={data3} title={"Property Table 3"}/>
