@@ -1,0 +1,49 @@
+.ant-table-tbody > tr > td {
+    padding: 0px 0px 0px 15px !important;
+    border: 1px solid rgb(0, 0, 0);
+    font-size: smaller;
+    font-weight: bold;
+    height: fit-content;
+    line-height: 4px !important;
+  }
+
+.ant-select:not(.ant-select-customize-input) .ant-select-selector {
+  border: none;
+  box-shadow: none;
+}
+
+.menu {
+  width: 33px;
+  height: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: hidden;
+  border-right: 1px solid gray;
+  border-top: 1px solid gray;
+}
+.menu_item {
+  font-size: 14px;
+  font-weight: 450;
+  color: #000000;
+  position: relative;
+  height: 120px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  white-space: nowrap;
+}
+
+.menu_item span {
+transform: rotate(-90deg);
+}
+
+.menu_item span button {
+  width: 120px;
+  height: 40px;
+}
+
+.menu_item span:hover {
+  background-color: rgb(207, 207, 207);
+}
