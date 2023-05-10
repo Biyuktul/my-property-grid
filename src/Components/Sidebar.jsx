@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { Layout, Tree } from 'antd';
-import { DownOutlined, RightCircleOutlined } from '@ant-design/icons';
+import { DownOutlined } from '@ant-design/icons';
 
 const { Sider } = Layout;
 

@@ -108,7 +108,7 @@ const items = [
     ]
   }
 ];
-const { Content, Footer } = Layout;
+const { Content } = Layout;
 
 
 const MyLayout = () => {

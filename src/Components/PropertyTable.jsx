@@ -2,7 +2,6 @@ import { Table, Typography, Select } from 'antd';
 import { useState } from 'react';
 import './style.css'
 import { ChevronUpIcon, ChevronDownIcon } from '@heroicons/react/solid';
-import { Button } from 'antd/es/radio';
 
 const { Title } = Typography;
 const {Option} = Select;
